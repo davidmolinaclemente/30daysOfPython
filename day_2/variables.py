@@ -1,11 +1,10 @@
 # Day 2 - 30DaysOfPython Challenge
 
+import math
+
 ## Exercises: Level 1
 
 # 2. Write a python comment saying 'Day 2: 30 Days Of Python programming'
-
-import math
-
 
 print("Day 2: 30 Days Of Python programming")
 
