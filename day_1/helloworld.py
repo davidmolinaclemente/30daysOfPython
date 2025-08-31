@@ -1,8 +1,8 @@
 # Day 1 - 30DaysOfPython Challenge
-
-# 1. Check the python version you are using
 import math
 import sys
+
+# 1. Check the python version you are using
 print("Python version: " + sys.version.split()[0])
 print("----------------------------")
 
